@@ -1,0 +1,6 @@
+Slide
+=====
+
+A simple slide effect
+
+**[demoµÿ÷∑](http://leegend.github.io/slide/index.html "slide demo")**
